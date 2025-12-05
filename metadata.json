@@ -1,0 +1,5 @@
+{
+  "name": "Üzleti Modell Vászon",
+  "description": "Egy interaktív webalkalmazás az Üzleti Modell Vászon létrehozásához és kezeléséhez, Gemini API-alapú ötletgenerálással minden szekcióhoz.",
+  "requestFramePermissions": []
+}
