@@ -64,6 +64,8 @@ Kövesse az alábbi lépéseket a projekt helyi futtatásához:
 
 4.  Az alkalmazás mostantól elérhető a Chrome bővítmények között, és új lapként vagy felugró ablakban használható (a konfigurációtól függően).
 
+5.  legegyszerűbb mód, letöltöd a .zip mappát és chrome fejlesztői módban kicsomagolod, majd a részletekre kattintva beáálítod, hogy egy ikon jelenjel meg a böngészősávodban az alkalmazáshoz.
+
 ## 🔑 Használat
 
 1.  **API Kulcs Beállítása**: Az alkalmazás indításakor vagy a "Beállítások" (fogaskerék ikon) menüben adja meg Google Gemini API kulcsát. (Ingyenesen igényelhető a [Google AI Studio](https://aistudio.google.com/)-ban).
